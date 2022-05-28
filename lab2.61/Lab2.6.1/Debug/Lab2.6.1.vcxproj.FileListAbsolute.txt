@@ -1,0 +1,8 @@
+D:\labs\Graphics\lab2.61\Lab2.6.1\Debug\Lab2.6.1.vcxproj.CopyComplete
+D:\labs\Graphics\lab2.61\Lab2.6.1\Debug\Lab2.6.1.exe
+D:\labs\Graphics\lab2.61\Lab2.6.1\Debug\freeglutd.dll
+D:\labs\Graphics\lab2.61\Lab2.6.1\Debug\glew32d.dll
+D:\labs\Graphics\lab2M\lab2.61\Lab2.6.1\Debug\Lab2.6.1.vcxproj.CopyComplete
+D:\labs\Graphics\lab2M\lab2.61\Lab2.6.1\Debug\Lab2.6.1.exe
+D:\labs\Graphics\lab2M\lab2.61\Lab2.6.1\Debug\freeglutd.dll
+D:\labs\Graphics\lab2M\lab2.61\Lab2.6.1\Debug\glew32d.dll

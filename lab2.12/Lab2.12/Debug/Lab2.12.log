@@ -1,0 +1,12 @@
+﻿  main12.cpp
+D:\labs\Graphics\lab2.12\main12.cpp(83,49): warning C4305: 'argument': truncation from 'double' to 'float'
+  pipeline.cpp
+D:\labs\Graphics\lab2.12\pipeline.cpp(15,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(15,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(16,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(16,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(17,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(17,19): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+D:\labs\Graphics\lab2.12\pipeline.cpp(51,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab2.12.vcxproj -> D:\labs\Graphics\lab2.12\Lab2.12\Debug\Lab2.12.exe
